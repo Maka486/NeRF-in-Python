@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # Run training
 python run_nerf.py
+```
 
 ## 5. Acknowledgement
 *   Thanks to **Prof. Lingqi Yan** for the inspiring GAMES101 course.
